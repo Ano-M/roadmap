@@ -1,4 +1,6 @@
 # GitHub User Activity CLI
+https://roadmap.sh/projects/github-user-activity
+
 A simple command-line interface (CLI) tool built with Python and Typer to fetch and neatly display recent public GitHub events of any user.
 
 ## Features
